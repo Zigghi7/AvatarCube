@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\AvatarZg.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AvatarZg.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\AvatarZgEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\haarcascade_frontalface_default.xml" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{BB38096A-B391-30DC-A0D4-4F3EA6B44507}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\AvatarWardrobe">
+      <UniqueIdentifier>{CAE768AD-D9D0-33B0-9D60-8455FFBBB932}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\AvatarWardrobe\Source">
+      <UniqueIdentifier>{24591B66-563A-3C55-916D-EE04360D9D79}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\AvatarWardrobe\Source\AvatarWardrobe">
+      <UniqueIdentifier>{A3B1DE12-BEE3-3DCC-B4DF-B86E98E55C65}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\AvatarWardrobe\Source\AvatarWardrobe\AvatarWardrobe.Build.cs">
+      <Filter>Plugins\AvatarWardrobe\Source\AvatarWardrobe</Filter>
+    </None>
+    <Filter Include="Plugins\AvatarWardrobe\Source\AvatarWardrobe\Private">
+      <UniqueIdentifier>{C117F71C-0835-36D8-B2D2-660C572E6A22}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\AvatarWardrobe\Source\AvatarWardrobe\Private\AvatarWardrobe.cpp">
+      <Filter>Plugins\AvatarWardrobe\Source\AvatarWardrobe\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AvatarWardrobe\Source\AvatarWardrobe\Private\MetaHumanWardrobeComponent.cpp">
+      <Filter>Plugins\AvatarWardrobe\Source\AvatarWardrobe\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AvatarWardrobe\Source\AvatarWardrobe\Private\WardrobeCatalogData.cpp">
+      <Filter>Plugins\AvatarWardrobe\Source\AvatarWardrobe\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AvatarWardrobe\Source\AvatarWardrobe\Private\WardrobeItemData.cpp">
+      <Filter>Plugins\AvatarWardrobe\Source\AvatarWardrobe\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AvatarWardrobe\Source\AvatarWardrobe\Private\WardrobeItemEntryWidget.cpp">
+      <Filter>Plugins\AvatarWardrobe\Source\AvatarWardrobe\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AvatarWardrobe\Source\AvatarWardrobe\Private\WardrobeMaterialVariantWidget.cpp">
+      <Filter>Plugins\AvatarWardrobe\Source\AvatarWardrobe\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AvatarWardrobe\Source\AvatarWardrobe\Private\WardrobeMenuWidget.cpp">
+      <Filter>Plugins\AvatarWardrobe\Source\AvatarWardrobe\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AvatarWardrobe\Source\AvatarWardrobe\Private\WardrobePlayerController.cpp">
+      <Filter>Plugins\AvatarWardrobe\Source\AvatarWardrobe\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AvatarWardrobe\Source\AvatarWardrobe\Private\WardrobeSaveGame.cpp">
+      <Filter>Plugins\AvatarWardrobe\Source\AvatarWardrobe\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\AvatarWardrobe\Source\AvatarWardrobe\Public">
+      <UniqueIdentifier>{EB42FE64-A0C8-369D-A67F-8F94C99CA396}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\AvatarWardrobe\Source\AvatarWardrobe\Public\AvatarWardrobe.h">
+      <Filter>Plugins\AvatarWardrobe\Source\AvatarWardrobe\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AvatarWardrobe\Source\AvatarWardrobe\Public\MetaHumanWardrobeComponent.h">
+      <Filter>Plugins\AvatarWardrobe\Source\AvatarWardrobe\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AvatarWardrobe\Source\AvatarWardrobe\Public\WardrobeCatalogData.h">
+      <Filter>Plugins\AvatarWardrobe\Source\AvatarWardrobe\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AvatarWardrobe\Source\AvatarWardrobe\Public\WardrobeItemData.h">
+      <Filter>Plugins\AvatarWardrobe\Source\AvatarWardrobe\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AvatarWardrobe\Source\AvatarWardrobe\Public\WardrobeItemEntryWidget.h">
+      <Filter>Plugins\AvatarWardrobe\Source\AvatarWardrobe\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AvatarWardrobe\Source\AvatarWardrobe\Public\WardrobeMaterialVariantWidget.h">
+      <Filter>Plugins\AvatarWardrobe\Source\AvatarWardrobe\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AvatarWardrobe\Source\AvatarWardrobe\Public\WardrobeMenuWidget.h">
+      <Filter>Plugins\AvatarWardrobe\Source\AvatarWardrobe\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AvatarWardrobe\Source\AvatarWardrobe\Public\WardrobePlayerController.h">
+      <Filter>Plugins\AvatarWardrobe\Source\AvatarWardrobe\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AvatarWardrobe\Source\AvatarWardrobe\Public\WardrobeSaveGame.h">
+      <Filter>Plugins\AvatarWardrobe\Source\AvatarWardrobe\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AvatarWardrobe\Source\AvatarWardrobe\Public\WardrobeTypes.h">
+      <Filter>Plugins\AvatarWardrobe\Source\AvatarWardrobe\Public</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\AvatarWardrobe\AvatarWardrobe.uplugin">
+      <Filter>Plugins\AvatarWardrobe</Filter>
+    </None>
+    <Filter Include="Source\AvatarZg">
+      <UniqueIdentifier>{5D088FE8-8094-3F05-BC25-A5CDF99FC505}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AvatarZg\AvatarZg.Build.cs">
+      <Filter>Source\AvatarZg</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\AvatarZg\AvatarZg.cpp">
+      <Filter>Source\AvatarZg</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AvatarZg\AvatarZg.h">
+      <Filter>Source\AvatarZg</Filter>
+    </ClInclude>
+    <Filter Include="Source\AvatarZg\Private">
+      <UniqueIdentifier>{6BBB0D7A-101B-3DF2-9EA0-BE734736ACED}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\AvatarZg\Private\AssistantApiClient.cpp">
+      <Filter>Source\AvatarZg\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\AvatarZg\Private\AssistantDebugWidget.cpp">
+      <Filter>Source\AvatarZg\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\AvatarZg\Private\AssistantSpeechRecognizerActor.cpp">
+      <Filter>Source\AvatarZg\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\AvatarZg\Private\AssistantSubsystem.cpp">
+      <Filter>Source\AvatarZg\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\AvatarZg\Private\AssistantTtsClient.cpp">
+      <Filter>Source\AvatarZg\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\AvatarZg\Private\PersonDetectionActor.cpp">
+      <Filter>Source\AvatarZg\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\AvatarZg\Public">
+      <UniqueIdentifier>{D69CE784-27E4-36D5-9B0C-70EEBCA207D6}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\AvatarZg\Public\AssistantApiClient.h">
+      <Filter>Source\AvatarZg\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\AvatarZg\Public\AssistantDebugWidget.h">
+      <Filter>Source\AvatarZg\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\AvatarZg\Public\AssistantSpeechRecognizerActor.h">
+      <Filter>Source\AvatarZg\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\AvatarZg\Public\AssistantSubsystem.h">
+      <Filter>Source\AvatarZg\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\AvatarZg\Public\AssistantTtsClient.h">
+      <Filter>Source\AvatarZg\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\AvatarZg\Public\AssistantTypes.h">
+      <Filter>Source\AvatarZg\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\AvatarZg\Public\PersonDetectionActor.h">
+      <Filter>Source\AvatarZg\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

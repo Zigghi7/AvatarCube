@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "AvatarZg",
+			"Path": "..\\Source\\AvatarZg.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AvatarZgEditor",
+			"Path": "..\\Source\\AvatarZgEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
