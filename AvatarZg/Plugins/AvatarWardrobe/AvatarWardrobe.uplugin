@@ -1,0 +1,19 @@
+{
+  "FileVersion": 3,
+  "Version": 104,
+  "VersionName": "1.0.4",
+  "FriendlyName": "Avatar Wardrobe",
+  "Description": "Runtime C++ wardrobe for MetaHuman-compatible skeletal garments with automatic outfit persistence.",
+  "Category": "Avatar",
+  "CreatedBy": "OpenAI",
+  "CanContainContent": true,
+  "IsBetaVersion": false,
+  "Installed": false,
+  "Modules": [
+    {
+      "Name": "AvatarWardrobe",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ]
+}

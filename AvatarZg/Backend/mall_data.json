@@ -1,0 +1,843 @@
+{
+  "name": "Gran Shopping Mongolfiera Molfetta",
+  "opening_hours": {
+    "mall": "Il centro commerciale è aperto dal lunedì al sabato dalle 9:00 alle 21:00 e la domenica dalle 10:00 alle 21:00.",
+    "food": "La ristorazione segue in generale gli orari della galleria: dal lunedì al sabato dalle 9:00 alle 21:00 e la domenica dalle 10:00 alle 21:00. Mc Donald's è indicato con apertura dal lunedì al sabato dalle 7:30 all'1:00.",
+    "supermarket": "L'ipermercato COOP è aperto dal lunedì al sabato dalle 9:00 alle 21:00 e la domenica dalle 10:00 alle 21:00."
+  },
+  "services": [
+    {
+      "name": "Bagni WC area IperCOOP",
+      "category": "servizi",
+      "floor": "Piano unico",
+      "area": "Di fronte all'ipermercato, tra TIM e Zagaria Sport; posizioni mappa 12 e 13",
+      "notes": "Servizi igienici disponibili nella galleria."
+    },
+    {
+      "name": "Bagni WC area Pandora",
+      "category": "servizi",
+      "floor": "Piano unico",
+      "area": "Tra Pandora e Senso Unico; posizioni mappa 67 e 65/66",
+      "notes": "Servizi igienici disponibili nella galleria."
+    },
+    {
+      "name": "Gift Card",
+      "category": "servizi",
+      "floor": "Piano unico",
+      "area": "Online e presso i due InfoPAD in galleria",
+      "notes": "Carta regalo prepagata MasterCard utilizzabile nei negozi del Gran Shopping Mongolfiera. Saldo verificabile tramite servizio clienti, sito o QR code sul retro della carta."
+    },
+    {
+      "name": "Contatti centro commerciale",
+      "category": "servizi",
+      "floor": "Piano unico",
+      "area": "Gran Shopping Mongolfiera, Via Olivetti, 70056 Molfetta BA",
+      "notes": "WhatsApp: 3487895124. Telefono: 0803375634."
+    },
+    {
+      "name": "Come raggiungere il centro",
+      "category": "servizi",
+      "floor": "Esterno",
+      "area": "SS16 Bis, uscite Molfetta Zona Industriale e Molfetta Nord; collegamento MTM linea 4 dalla stazione ferroviaria",
+      "notes": "Il centro è vicino alla SS16bis e al casello A14; la segnaletica dedicata guida verso il centro commerciale."
+    },
+    {
+      "name": "Orlo Express",
+      "category": "sartoria",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 8 Ter",
+      "notes": "La Sartoria Orlo Express, situata all'interno del centro commerciale Gran Shopping Mongolfiera di Molfetta, è un punto di riferimento per servizi sartoriali rapidi e di qualità. Con un'esperienza trentennale nel settore, offre una vasta gamma di servizi, tra cui: Riparazioni sartoriali: modifiche e aggiustamenti su capi di abbigliamento per garantire una vestibilità perfetta. Ricami personalizzati: realizzazione di ricami su misura, inclusi punto croce e altri motivi decorativi. Vendita di articoli ricamati: disponibilità di bavaglini e altri accessori ricamati, ideali per regali personalizzati",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Fresco Pulito",
+      "category": "Lavanderia",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 10",
+      "notes": "Lavaggio a secco, ad acqua e biologico: trattamenti personalizzati per ogni tipo di tessuto, dai più delicati come seta e lana, fino ai capi tecnici e sportivi. Sanificazione certificata: eliminazione di acari, batteri e virus da abiti, piumoni, tende e altri tessili per la casa. Rigenerazione accessori: servizi specializzati per borse e scarpe di marchi prestigiosi come Gucci, Louis Vuitton e Chanel, con interventi su misura per ogni esigenza. Lavaggio capi firmati e da cerimonia: cura particolare per abiti da sposa, completi eleganti e capi di alta moda. Servizio a domicilio: ritiro e consegna gratuiti nei comuni limitrofi a Molfetta, con possibilità di prenotazione online o telefonica.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Sciamanin",
+      "category": "Agenzia di viaggi",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 46",
+      "notes": "Sciamanin è un'agenzia di viaggi situata all'interno del centro commerciale Gran Shopping Mongolfiera di Molfetta. Specializzata nell'organizzazione di vacanze su misura, offre consulenze personalizzate per aiutare i clienti a pianificare soggiorni indimenticabili, sia in Italia che all'estero. Che si tratti di una settimana bianca, di una vacanza al mare o di un viaggio culturale, il team di Sciamanin è pronto a fornire supporto e consigli per soddisfare ogni esigenza di viaggio.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Vanity Hair",
+      "category": "parrucchiere",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 20",
+      "notes": "Vanity Hair è un salone di parrucchieri situato all'interno del centro commerciale Gran Shopping Mongolfiera di Molfetta, in Via Adriano Olivetti. Il salone offre una vasta gamma di servizi per la cura e lo styling dei capelli, tra cui tagli, pieghe, colorazioni e trattamenti personalizzati. Il team di professionisti è specializzato in tecniche avanzate come il Degradé Joelle, garantendo risultati di alta qualità e soddisfazione del cliente.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Area Giochi",
+      "category": "area giochi",
+      "floor": "Piano unico",
+      "area": "Galleria del centro",
+      "notes": "L’area bimbi si trova accanto a Zara, in Piazza Ottagono. Proprio qui, di fronte a me!",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    }
+  ],
+  "shops": [
+    {
+      "name": "COOP",
+      "category": "Fast food",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 1",
+      "notes": "offre un vasto assortimento di prodotti alimentari e non alimentari, inclusi elettrodomestici, articoli per la casa, abbigliamento, elettronica e servizi aggiuntivi come ottica e parafarmacia.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "AW LAB",
+      "category": "Abbigliamento uomo/donna/bambino",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 98, 99",
+      "notes": "AW LAB è una catena di negozi specializzata in abbigliamento, calzature e accessori sportivi e streetwear, molto popolare soprattutto tra i giovani. Sneakers dei brand più famosi come Nike, Adidas, Puma, New Balance, Vans, Converse e molti altri. Abbigliamento streetwear, t-shirt, felpe, pantaloni, giacche, spesso in edizione limitata o collaborazioni esclusive. Accessori: cappellini, zaini, calze e altri elementi per completare il look urbano. Caratteristiche distintive: Stile giovane e dinamico, con un forte focus sulle tendenze del momento.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "BERSHKA",
+      "category": "Abbigliamento uomo/donna/bambino",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 26, 27",
+      "notes": "Bershka si rivolge principalmente a un pubblico giovane, offrendo capi di moda accessibili e in linea con le ultime tendenze. Il marchio è noto per il suo stile urbano e dinamico, che spazia dal casual al trendy, includendo collezioni per donna, uomo e adolescenti. Tra le sue linee principali figurano:​ Bershka: la linea principale, con capi alla moda per giovani adulti.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Calliope",
+      "category": "Abbigliamento uomo/donna/bambino",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 4",
+      "notes": "​Calliope si propone di ispirare le persone a esprimere la propria personalità attraverso uno stile definito \"glamour light\", che unisce eleganza sobria e funzionalità quotidiana . Calliope propone un'ampia gamma di prodotti per donna, uomo e bambini, inclusi accessori e intimo. Il brand si distingue per la capacità di offrire total look coordinati, permettendo ai clienti di creare outfit completi e armoniosi.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Calzedonia",
+      "category": "Abbigliamento uomo/donna/bambino",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 29",
+      "notes": "Specializzato in calzetteria, costumi da bagno e abbigliamento per uomo, donna e bambino, il brand si è affermato per la combinazione di qualità, stile e prezzi accessibili.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Camomilla",
+      "category": "Abbigliamento donna dinamiche, femminili, e multitasking",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 32",
+      "notes": "Camomilla Italia. opera nel settore della moda. Offre abbigliamento per donne dinamiche, femminili e multitasking, eleganti e versatili.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Candida",
+      "category": "Abbigliamento uomo/donna",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 80",
+      "notes": "Offre abbigliamento maschile e accessori. Candida propone collezioni di abbigliamento per donna e uomo, caratterizzate da uno stile contemporaneo e accessibile.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Cisalfa",
+      "category": "Abbigliamento uomo/donna/bambino",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 2",
+      "notes": "Cisalfa Sport è una delle principali catene italiane specializzate nella vendita di abbigliamento, calzature e attrezzature per lo sport e il tempo libero. Abbigliamento e calzature: per uomo, donna e bambino, adatti sia per l'attività sportiva che per un look casual. Attrezzature sportive: per attività come running, fitness, calcio, tennis, padel, outdoor, sci e ciclismo. Accessori: come zaini, borracce, racchette, palloni e molto altro.​ Il catalogo include prodotti di oltre 270 marchi, tra cui Nike, Adidas, The North Face, Puma, Asics, Salomon, New Balance, oltre a marchi propri come 8848, ABC, Dack’s e Best Company.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Clayton",
+      "category": "Abbigliamento uomo",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 96, 97",
+      "notes": "Il brand propone uno stile moderno e accessibile, ispirato alla moda urbana e alle tendenze internazionali, con l'obiettivo di offrire capi di qualità a prezzi competitivi, incarnando il concetto di Democratic Luxury. Le collezioni Clayton comprendono abbigliamento, calzature, profumi e accessori, pensati per una clientela trasversale: dallo studente attento alle tendenze al giovane professionista che necessita di outfit versatili per lavoro e tempo libero.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Cotton & Silk",
+      "category": "Abbigliamento uomo",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 34, 35, 36",
+      "notes": "Cotton & Silk è un marchio italiano di abbigliamento maschile noto per offrire capi che combinano eleganza e stile casual, ideati e disegnati interamente in Italia. La collezione comprende una vasta gamma di prodotti, tra cui camicie, pantaloni, giacche, t-shirt, jeans, bermuda, felpe, maglie, giubbini, abiti e accessori, pensati per soddisfare le esigenze dell'uomo moderno in ogni occasione.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Denny Rose",
+      "category": "Abbigliamento donna",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 25",
+      "notes": "Conosciuto per il suo stile dinamico e grintoso, Denny Rose propone collezioni che esaltano la femminilità con un tocco rock e glamour, rivolgendosi a donne sicure di sé, passionali e sempre al passo con le tendenze. Il brand si distingue per la capacità di combinare eleganza e audacia, offrendo capi che spaziano dal casual chic al sofisticato, sempre con un'attenzione particolare ai dettagli e alla qualità dei materiali. Le collezioni includono abiti, pantaloni, giacche e accessori, pensati per valorizzare la personalità di chi li indossa.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Fiorella Rubino",
+      "category": "Abbigliamento donna",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 75",
+      "notes": "Fiorella Rubino è un marchio italiano di moda femminile specializzato in abbigliamento curvy, pensato per donne che vestono dalla taglia 46 in su. Il brand propone uno stile vivace, urbano e trendy, con capi casual facili da indossare e dal glamour contemporaneo.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Footlocker",
+      "category": "Abbigliamento uomo/donna/bambino",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 55, 56",
+      "notes": "L'azienda è riconosciuta per la sua profonda connessione con la cultura delle sneaker e per la collaborazione con marchi iconici come Nike, adidas, Jordan e Puma. Offre abbigliamento sportivo e scarpe da ginnastica.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Harmont & Blaine",
+      "category": "Abbigliamento uomo/donna/bambino",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 63, 64",
+      "notes": "Harmont & Blaine è un marchio italiano di abbigliamento upper-casual. Specializzato in capi di alta qualità che combinano eleganza rilassata e stile mediterraneo, Harmont & Blaine propone collezioni per uomo, donna e bambino. Il marchio è noto per l'uso di colori vivaci, materiali pregiati e una vestibilità confortevole, incarnando il concetto di feel good everyday style.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Hermitage",
+      "category": "Abbigliamento uomo",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 42",
+      "notes": "Il brand si distingue per uno stile moderno, informale ma al contempo elegante, pensato per l'uomo ricercato e creativo che desidera sentirsi a proprio agio in ogni contesto. La collezione di Hermitage Uomo comprende una vasta gamma di capi, tra cui giacche, camicie, pantaloni, jeans, t-shirt, polo, maglie, felpe, bermuda, costumi da bagno, oltre a accessori come cinture, cappelli, cravatte, zaini e profumi. Il marchio offre anche una selezione di calzature, tra cui mocassini, sneakers, espadrillas e infradito.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Idexè",
+      "category": "Abbigliamento neonati/bambino/ragazzi da 0 a 14 anni",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 47",
+      "notes": "Idexè è un marchio italiano specializzato in abbigliamento per neonati, bambini e ragazzi da 0 a 14 anni, Le collezioni Idexè comprendono una vasta gamma di prodotti, tra cui tutine, body, completi, felpe, pantaloni, gonne, vestiti e accessori, realizzati con materiali selezionati e attenzione ai dettagli. Il brand pone particolare cura nella scelta dei tessuti, privilegiando quelli delicati e confortevoli, adatti alla pelle sensibile dei bambini.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Intimissimi",
+      "category": "Abbigliamento uomo/donna/bambino",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 125",
+      "notes": "Intimissimi è un marchio italiano di lingerie. Specializzato in biancheria intima per donna e uomo, il brand offre una vasta gamma di prodotti che includono reggiseni, slip, body, pigiami, maglieria e homewear, combinando eleganza, comfort e qualità.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "JekPit",
+      "category": "Abbigliamento uomo/donna",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 110,111,112,113",
+      "notes": "Specializzato in moda contemporanea per uomo e donna, offre una selezione curata di capi e accessori dei più noti brand internazionali. Tra i marchi disponibili figurano Emporio Armani EA7, Versace Jeans Couture, John Richmond, Calvin Klein, Tommy Jeans, Moschino, Karl Lagerfeld, Dsquared2, GCDS e molti altri. Il negozio propone una vasta gamma di prodotti, tra cui giubbotti, t-shirt, camicie, felpe, pantaloni, jeans, abiti, sneakers, stivaletti, cinture, zaini e accessori da cerimonia come cravatte e papillon.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Live978",
+      "category": "Abbigliamento uomo",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 60",
+      "notes": "Live978 è un marchio italiano di abbigliamento maschile che propone uno stile urbano e contemporaneo, ispirato alla cultura streetwear e alla musica hip-hop. Il brand si rivolge a uomini dinamici e creativi, offrendo capi che combinano comfort, qualità e design distintivo. La collezione di Live978 include una vasta gamma di prodotti: t-shirt, felpe, jeans, pantaloni cargo, joggers, giubbotti, camicie e accessori come profumi.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Mango",
+      "category": "Abbigliamento uomo/donna/bambino",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 70, 71, 72",
+      "notes": "Mango offre abbigliamento e accessori per donna, uomo e bambino, combinando eleganza mediterranea e tendenze internazionali. Le collezioni di Mango includono una vasta gamma di prodotti, tra cui abiti, giacche, pantaloni, maglieria, scarpe e accessori, pensati per soddisfare le esigenze di una clientela attenta alla moda e al comfort.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Motivi",
+      "category": "Abbigliamento donna",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 83",
+      "notes": "Il brand si distingue per uno stile glamour, romantico e contemporaneo, pensato per valorizzare la femminilità e permettere alle donne di esprimere la propria personalità attraverso la moda. Le collezioni di Motivi includono una vasta gamma di capi: abiti, tailleur, camicie, bluse, pantaloni, gonne, jeans, giacche, cappotti e accessori come borse, bijoux, cinture e scarpe. Il brand adotta un modello di fast fashion, con nuove proposte ogni 15 giorni, per offrire sempre le ultime tendenze",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Oltre",
+      "category": "Abbigliamento donna",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 84",
+      "notes": "Oltre si rivolge a donne moderne, sofisticate e attente alle nuove tendenze, offrendo collezioni \"total look\" sempre aggiornate e curate nei dettagli. La gamma di prodotti include abiti, pantaloni, camicie, maglieria, giacche, cappotti e accessori, disponibili in un'ampia varietà di taglie per adattarsi a diverse silhouette.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Original Marines",
+      "category": "Abbigliamento uomo/donna/bambino",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 126",
+      "notes": "Original Marines è un punto di riferimento nell'abbigliamento per bambini e ragazzi. Le sue collezioni, suddivise in linee come Newborn (0-18 mesi), Baby, Kids e Junior, propongono capi colorati, confortevoli e di qualità, pensati per accompagnare i più piccoli in ogni fase della crescita.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Oviesse",
+      "category": "Abbigliamento uomo/donna/bambino",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 3",
+      "notes": "Il brand è noto per offrire uno stile contemporaneo ed essenziale, con un ottimo rapporto qualità-prezzo. Le collezioni di OVS comprendono abbigliamento casual e formale, accessori, prodotti di bellezza e articoli per la casa. Tra i marchi gestiti da OVS S.p.A. figurano anche OVS Kids, dedicato all'abbigliamento per bambini da 0 a 15 anni, e Piombo, una linea contemporanea disegnata da Massimo Piombo. Il gruppo ha inoltre acquisito brand storici come Stefanel e Les Copains, ampliando ulteriormente la propria offerta .",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Pull & Bear",
+      "category": "Abbigliamento uomo/donna",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 85,86,87,100,101",
+      "notes": "Pull & Bear offre abbigliamento e accessori dallo stile casual, ispirati alle tendenze internazionali, alla cultura streetwear e al mondo della musica. Le collezioni di Pull & Bear comprendono capi per uomo e donna, tra cui jeans, t-shirt, felpe, giacche, scarpe e accessori. Il marchio è noto per la sua capacità di reinterpretare le ultime tendenze in chiave accessibile e confortevole, offrendo prodotti dal design contemporaneo a prezzi competitivi.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Quality Sport",
+      "category": "Abbigliamento uomo/donna/bambino",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 9",
+      "notes": "Il brand si distingue per la proposta di uno stile urban e contemporaneo, rivolto a un pubblico giovane e dinamico, appassionato di moda e sport. è possibile trovare un'ampia selezione di articoli dei principali marchi internazionali, tra cui Adidas, Nike, Puma, New Balance e molti altri. L'offerta comprende capi per uomo, donna e bambino, con particolare attenzione alle ultime tendenze dello streetwear e dello sportswear.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Rinascimento",
+      "category": "Abbigliamento donna",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 88",
+      "notes": "Rinascimento offre capi che esaltano la femminilità attraverso design raffinati e attenzione ai dettagli. Le collezioni Rinascimento comprendono una vasta gamma di abiti, tailleur, tute, cappotti e accessori, pensati per accompagnare la donna moderna in ogni occasione, dal quotidiano agli eventi speciali. Il marchio propone anche linee dedicate, come l'Atelier e la collezione Curvy, per soddisfare diverse esigenze di stile e vestibilità.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Sartoria Italiana",
+      "category": "Abbigliamento uomo",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 114",
+      "notes": "Il brand propone un total look per uomo, con capi interamente realizzati in Italia, utilizzando tessuti di alta qualità e offrendo un ottimo rapporto qualità-prezzo.La collezione include abiti classici, giacche, pantaloni, camicie, maglieria, jeans e accessori, con prezzi competitivi.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Senso Unico",
+      "category": "Abbigliamento uomo/donna",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 65,66",
+      "notes": "Il brand è noto per offrire collezioni moda uomo e donna dallo stile giovane e contemporaneo, combinando capi casual e denim con proposte più eleganti. Nei negozi Senso Unico è possibile trovare un assortimento di marchi come Malefemale, Clausura e Adriano Sassi, con un focus su un total look curato e accessibile",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Sorbino",
+      "category": "Abbigliamento uomo",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 73,74",
+      "notes": "Il marchio offre una vasta gamma di capi d'abbigliamento, tra cui abiti, giacche, pantaloni, camicie, maglieria, t-shirt, felpe, jeans e accessori, pensati per l'uomo moderno che cerca eleganza e comfort.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Sottotono",
+      "category": "Abbigliamento uomo/donna/bambino",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 58",
+      "notes": "coniuga la tradizione sartoriale mediterranea con un design contemporaneo offrendo capi versatili adatti a diverse occasioni, sia formali che casual. Propone un total look che spazia da abiti sartoriali a capi più informali, sempre mantenendo un equilibrio tra eleganza e comfort.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Stradivarious",
+      "category": "Abbigliamento donna",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 2 bis",
+      "notes": "Il brand si rivolge principalmente a giovani donne tra i 20 e i 35 anni, proponendo uno stile fresco, dinamico e accessibile. Le collezioni spaziano tra capi casual, streetwear e sartoriali, con un'attenzione particolare alle ultime tendenze della moda.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Terranova",
+      "category": "Abbigliamento uomo/donna/bambino",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 50",
+      "notes": "Il brand si distingue per uno stile POP, giovane e colorato, offrendo collezioni per donna, uomo, bambino e intimo. I capi Terranova sono pensati per essere accessibili, ironici e sempre al passo con le ultime tendenze, mantenendo un ottimo rapporto qualità-prezzo.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Tezenis",
+      "category": "Abbigliamento uomo/donna/bambino",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 31",
+      "notes": "Tezenis offre abbigliamento intimo, homewear e pigiameria, ma anche anche linee di costumi da bagno e abbigliamento sportivo, sempre con un occhio di riguardo al rapporto qualità-prezzo.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Timothy Brando",
+      "category": "Abbigliamento uomo",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 69",
+      "notes": "Timothy Brando offre abbigliamento maschile che propone collezioni eleganti e contemporanee, pensate per l'uomo moderno che cerca stile e qualità a prezzi accessibili. Le collezioni Timothy Brando includono abiti completi, camicie, pantaloni e accessori, con un'attenzione particolare alla qualità dei tessuti e alla cura dei dettagli. Il marchio si distingue per offrire un total look raffinato, adatto sia per occasioni formali che per il tempo libero, mantenendo un ottimo rapporto qualità-prezzo.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Yamamay",
+      "category": "Abbigliamento uomo/donna/bambino",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 7",
+      "notes": "è un marchio italiano di intimo, lingerie, pigiameria, moda mare e abbigliamento. L'azienda è leader nella vendita al dettaglio di prodotti intimo, corsetteria, lingerie, costumi da mare, abbigliamento ed accessori.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Zagaria Sport",
+      "category": "Abbigliamento uomo/donna/bambino",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 13",
+      "notes": "offre un'ampia gamma di prodotti per uomo, donna e bambino, coprendo discipline come calcio, running, fitness, nuoto, padel, arti marziali e danza. Tra i marchi trattati figurano Givova, Joma, Kappa, Adidas e Puma. Oltre all'abbigliamento tecnico, Zagaria Sport propone merchandising ufficiale di squadre come Juventus, Milan, Inter, Roma e Bari, con articoli personalizzabili per club, associazioni e parrocchie.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Zara",
+      "category": "Abbigliamento uomo/donna/bambino",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 77,78,79",
+      "notes": "Il brand propone un'ampia gamma di prodotti per donna, uomo e bambino, inclusi abbigliamento, calzature, accessori, profumi e, più recentemente, una linea di bellezza. Le collezioni sono spesso arricchite da collaborazioni con designer e marchi internazionali.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Zuiki",
+      "category": "Abbigliamento donna",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 107,109",
+      "notes": "Il brand si rivolge principalmente a un pubblico femminile giovane e attento alle tendenze, proponendo capi e accessori che spaziano dallo stile casual a quello più elegante. Le collezioni vengono aggiornate frequentemente con \"flash di collezione\", offrendo sempre nuove proposte a prezzi competitivi",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Aranciviola",
+      "category": "Calzature e accessori uomo/donna",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 18",
+      "notes": "Aranciviola è un marchio italiano specializzato nella vendita di borse, valigie e accessori moda. Il brand propone una selezione curata di prodotti per donna e uomo, tra cui borse a mano, zaini, portafogli, trolley, beauty case e accessori da viaggio. Tra i marchi disponibili figurano nomi noti come Valentino Bags, Gaelle Paris, Roncato, K-Way e Marina Galanti, offrendo così un mix di stile, funzionalità e qualità.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Beatrice",
+      "category": "Calzature e accessori",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 89",
+      "notes": "Il brand propone un'ampia gamma di prodotti, tra cui abiti, giacche, top, pantaloni, gonne e accessori, caratterizzati da un mix di tonalità classiche e accenti vivaci, texture tridimensionali e dettagli artigianali.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Due Passi",
+      "category": "Calzature e accessori",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 57",
+      "notes": "Nei punti vendita Due Passi è possibile trovare un'ampia gamma di articoli, tra cui sneakers, stivaletti, scarpe eleganti, borse, cinture, portafogli e altri accessori. Il marchio collabora con brand rinomati come Guess, Alviero Martini, Liu Jo, Pinko, Calvin Klein, Tommy Hilfiger e molti altri, offrendo così una varietà di stili adatti a diverse esigenze e gusti.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Geox",
+      "category": "Calzature e accessori",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 39",
+      "notes": "Geox offre una vasta gamma di calzature e abbigliamento per uomo, donna e bambino, combinando stile e funzionalità. Le sue collezioni includono scarpe casual ed eleganti, sneakers, stivali, giacche e piumini, tutti progettati per garantire comfort e traspirabilità.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Parfois",
+      "category": "Calzature e accessori",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 19",
+      "notes": "Parfois è un marchio portoghese di accessori moda femminili, borse, gioielli, portafogli, occhiali da sole, cinture, sciarpe, orologi, accessori per capelli, calzature e abbigliamento.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Primadonna",
+      "category": "Calzature e accessori",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 120,121",
+      "notes": "I negozi Primadonna Collection offrono un'ampia gamma di prodotti, tra cui décolleté, sandali, sneakers, borse, portafogli, foulard, cinture, giacche, vestiti, camicie, pantaloni, gonne, coordinati, maglieria, felpe, tute e moda mare, pensati per soddisfare le esigenze di stile quotidiano e per occasioni speciali.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Scarpe & Scarpe",
+      "category": "Calzature e accessori",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 76",
+      "notes": "Scarpe&Scarpe offre una vasta gamma di prodotti che spaziano dalle calzature casual a quelle eleganti, includendo anche abbigliamento sportivo, valigeria e pelletteria.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Skechers",
+      "category": "Calzature e accessori",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 45",
+      "notes": "Inizialmente focalizzata su stivali da lavoro e scarpe da skate, l'azienda ha ampliato la sua offerta includendo una vasta gamma di calzature sportive e casual per uomo, donna e bambino.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Bon Bon",
+      "category": "elettronica/casa/tempo libero",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 115",
+      "notes": "Il negozio Bon Bon – Chicche di eleganza, situato all'interno del centro commerciale Gran Shopping Mongolfiera di Molfetta, è specializzato nella vendita di bomboniere, confetteria artigianale e articoli da regalo. Il punto vendita offre una vasta gamma di prodotti pensati per rendere unici eventi speciali come matrimoni, battesimi, comunioni e anniversari. Bomboniere personalizzate: soluzioni eleganti e su misura per ogni tipo di cerimonia. Confetti e cioccolatini artigianali: selezione di dolci prelibatezze per arricchire le tue occasioni speciali. Idee regalo e oggettistica: proposte raffinate per doni indimenticabili. Accessori decorativi: elementi per impreziosire la casa o l'evento.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "C&C Consulting Apple Reseller",
+      "category": "elettronica/casa/tempo libero",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 40",
+      "notes": "C&C Consulting S.p.A. è una società specializzata nella vendita e assistenza di prodotti Apple.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Gamelife",
+      "category": "elettronica/casa/tempo libero",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 22",
+      "notes": "Offre una vasta gamma di prodotti, tra cui titoli per le principali piattaforme di gioco, console nuove e usate, accessori, gadget e articoli da collezione. Inoltre, i clienti hanno la possibilità di vendere o permutare i propri giochi e dispositivi usati, usufruendo di valutazioni competitive.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Giunti al punto",
+      "category": "libreria",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 17",
+      "notes": "Giunti al punto offre un'ampia selezione di libri per tutte le età e gli interessi, spaziando dalla narrativa alla saggistica, dalla letteratura per ragazzi ai manuali tecnici.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Kasanova",
+      "category": "elettronica/casa/tempo libero",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 33",
+      "notes": "Kasanova è possibile trovare un'ampia gamma di prodotti, tra cui Casalinghi, pentole, padelle, utensili da cucina, piccoli elettrodomestici. Arredamento, complementi d'arredo, decorazioni, mobili per interni ed esterni. Tessile, biancheria per la casa, cuscini, tende, tovaglie. Idee regalo, oggettistica, articoli stagionali, confezioni regalo.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "La casa de las carcasas",
+      "category": "elettronica/casa/tempo libero",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 101 bis",
+      "notes": "La Casa de las Carcasas propone un'ampia gamma di cover per smartphone.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Mediaworld",
+      "category": "elettronica/casa/tempo libero",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 54",
+      "notes": "MediaWorld propone un'ampia gamma di prodotti, tra cui: Smartphone, TV, notebook, elettrodomestici, piccoli elettrodomestici, accessori tech e prodotti per la smart home. Servizi personalizzati: assistenza tecnica, configurazione dispositivi, estensioni di garanzia, ritiro dell'usato e finanziamenti.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Re Sole",
+      "category": "elettronica/casa/tempo libero",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 15",
+      "notes": "Re Sole è un negozio specializzato in biancheria per la casa e complementi d'arredo, situato all'interno del Gran Shopping Mongolfiera. Il punto vendita offre un'ampia selezione di prodotti tessili per il letto, il bagno, la cucina e il living, oltre a una linea di abbigliamento notte e accessori per bambini.Cosa puoi trovare da Re Sole Letto: trapunte, copripiumini, completi lenzuola, cuscini arredo e plaid. Bagno: asciugamani, accappatoi, tappeti e teli mare. Cucina: tovaglie, runner, grembiuli, presine e canovacci. Living: tende, copridivani e cuscini decorativi. Nightwear: pigiami, vestaglie e camicie da notte per uomo e donna. Linea bambini: trapunte, pigiami, accappatoi e poncho.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Tempus",
+      "category": "elettronica/casa/tempo libero",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 8",
+      "notes": "Tempus è una boutique specializzata in orologi e borse di lusso, situata all'interno del Gran Shopping Mongolfiera di Molfetta (BA). Il negozio offre una selezione esclusiva di orologi dei marchi più prestigiosi, tra cui Rolex, Patek Philippe, Omega e Audemars Piguet. Inoltre, propone borse firmate da brand iconici come Gucci, Chanel, Louis Vuitton, Hermès e Yves Saint Laurent",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Thun",
+      "category": "elettronica/casa/tempo libero",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 43",
+      "notes": "I negozi Thun offrono una vasta gamma di prodotti, tra cui figure in ceramica, articoli per la tavola, accessori per la casa, bijoux e articoli per bambini. Ogni creazione è pensata per trasmettere emozioni e raccontare storie, rendendo ogni acquisto un'esperienza unica.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Tiger",
+      "category": "elettronica/casa/tempo libero",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 51,52,53",
+      "notes": "Il negozi Flying Tiger propone un assortimento eclettico di prodotti, tra cui:Articoli per la casa: decorazioni, utensili da cucina, accessori per il bagno. Giocattoli e giochi: per bambini e adulti, dai puzzle ai giochi da tavolo. Cancelleria: quaderni, penne, planner e accessori per l'ufficio. Accessori personali: borse, occhiali da sole, gioielli e gadget tecnologici. Idee regalo: oggetti divertenti e creativi per ogni occasione.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Tim",
+      "category": "elettronica/casa/tempo libero",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 12",
+      "notes": "Il negozio TIM è un punto vendita ufficiale dell'operatore di telecomunicazioni italiano TIM (Telecom Italia), presenti in tutta Italia. Offre una vasta gamma di servizi e prodotti legati alla telefonia mobile e fissa, internet e intrattenimento.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Tramas",
+      "category": "elettronica/casa/tempo libero",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 59",
+      "notes": "Biancheria da letto: lenzuola, copripiumini, trapunte e piumini. Tessili per il bagno: asciugamani, accappatoi e tappeti. Tende e tendaggi: per ogni stile e necessità. Cuscini e decorazioni: per aggiungere comfort e stile alla tua casa. Abbigliamento da casa: pigiami, vestaglie e abbigliamento comodo per tutta la famiglia. Linea baby: biancheria e accessori per i più piccoli.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Vodafone",
+      "category": "elettronica/casa/tempo libero",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 30",
+      "notes": "Il negozio Vodafone è un punto vendita ufficiale, dove è possibile accedere a una vasta gamma di servizi e prodotti legati alla telefonia mobile e fissa, internet e intrattenimento.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Wind 3",
+      "category": "elettronica/casa/tempo libero",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 132",
+      "notes": "Telefonia Mobile e Fissa: offerte personalizzate per piani ricaricabili e in abbonamento, con soluzioni sia per privati che per aziende. Internet e Fibra Ottica: connessioni ad alta velocità per la casa e l'ufficio, con pacchetti che includono modem Wi-Fi e assistenza dedicata. Smartphone e Accessori: ampia selezione di dispositivi delle principali marche, disponibili anche con formule di pagamento rateale. Energia e Assicurazioni: offerte per luce e gas in collaborazione con Acea Energia, oltre a polizze assicurative per casa, salute e mobilità.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Bottega Verde",
+      "category": "cura della persona",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 103",
+      "notes": "I negozi Bottega Verde offrono un'ampia gamma di prodotti per la cura del viso, del corpo, dei capelli, make-up e profumi.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Dental Pro",
+      "category": "cura della persona , odontoiatria",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 130",
+      "notes": "DentalPro è il più grande gruppo odontoiatrico italiano, fondato nel 2010 con l'obiettivo di rendere le cure dentali di alta qualità accessibili a tutti. DentalPro si impegna a migliorare la vita delle persone prendendosi cura della loro salute orale, offrendo un'esperienza di cura serena e soddisfacente in ambienti accoglienti e funzionali.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Equivalenza",
+      "category": "cura della persona ,profumeria",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 105",
+      "notes": "Specializzata in profumi, cosmetici e aromi per la casa, Equivalenza propone un'ampia gamma di fragranze suddivise in famiglie olfattive, consentendo ai clienti di trovare la fragranza perfetta per ogni personalità e occasione. Una delle caratteristiche distintive di Equivalenza è l'innovativo sistema di refill: i profumi vengono confezionati al momento in flaconi di vetro ricaricabili, riducendo l'impatto ambientale e promuovendo la sostenibilità. Inoltre, il brand offre la possibilità di personalizzare le fragranze, permettendo ai clienti di creare combinazioni uniche che rispecchiano la propria individualità.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Idea Bellezza",
+      "category": "cura della persona",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 44",
+      "notes": "I negozi Idea Bellezza offrono un ampio assortimento di prodotti, tra cui profumi, make-up, trattamenti per il viso e il corpo, prodotti per capelli e igiene personale",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Kiko",
+      "category": "cura della persona",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 21",
+      "notes": "Il brand propone una vasta gamma di prodotti per il trucco, la cura della pelle e accessori beauty, con oltre 1.200 referenze che spaziano da rossetti e ombretti a trattamenti skincare.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Ottica Pugliese",
+      "category": "cura della persona, ottica",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 102",
+      "notes": "Il negozio offre una vasta gamma di prodotti, tra cui occhiali da vista, occhiali da sole e lenti a contatto, proponendo marchi di alta qualità e servizi professionali per la cura della vista.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Salmoiraghi e Viganò",
+      "category": "cura della persona, ottica",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 11",
+      "notes": "Salmoiraghi & Viganò offre un'ampia gamma di prodotti, tra cui occhiali da vista, occhiali da sole e lenti a contatto, proponendo sia marchi internazionali di prestigio che collezioni esclusive.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Sensation",
+      "category": "cura della persona",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 122,123",
+      "notes": "Nel negozio Sensation Profumerie è disponibile un'ampia selezione di prodotti di profumeria, make-up, skincare e cura dei capelli, offrendo sia marchi premium che brand internazionali noti. Il personale altamente formato fornisce consulenze personalizzate, inclusi servizi come sessioni di trucco per occasioni speciali.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Sephora",
+      "category": "cura della persona",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 24",
+      "notes": "Sephora offre una vasta gamma di prodotti, tra cui make-up, skincare, profumi, prodotti per la cura dei capelli e accessori. Il marchio si distingue per l'ampia selezione di brand internazionali e per la propria linea esclusiva, la Sephora Collection.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Vista X",
+      "category": "cura della persona, ottica",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 92",
+      "notes": "Specializzata in occhiali da vista e da sole, offre montature dal design esclusivo e lenti tecnologicamente avanzate a prezzi accessibili.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Wycom",
+      "category": "cura della persona",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 116",
+      "notes": "Specializzata in prodotti di make-up, skincare e body care di alta qualità a prezzi accessibili.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Yves Rocher",
+      "category": "cura della persona",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 16",
+      "notes": "Il marchio offre una vasta gamma di prodotti per la cura della pelle, dei capelli, il make-up e le fragranze, molti dei quali sono realizzati con ingredienti provenienti da coltivazioni biologiche e processi eco-compatibili.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Chapeau le gourmet",
+      "category": "ristorante",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 94,95",
+      "notes": "Il menù propone una varietà di piatti che combinano la tradizione culinaria italiana con un tocco di creatività, utilizzando ingredienti freschi e di qualità. Tra le specialità, si possono trovare antipasti sfiziosi, primi piatti ricchi di sapore e secondi piatti ben presentati.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "C House",
+      "category": "Bar / food",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 8 bis, 28, 118",
+      "notes": "Il Bar C House combina il fascino della tradizione italiana con un design contemporaneo, offrendo un ambiente elegante e accogliente. Il menù spazia dalla colazione alla cena, includendo caffè tostato fresco, dolci artigianali, panini open-face, insalate e piatti principali.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "C House Bistrot",
+      "category": "ristorante",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 117",
+      "notes": "Il Bistrot C House offre un ambiente elegante e accogliente. Il menù spazia dalla colazione alla cena, includendo caffè tostato fresco, dolci artigianali, panini open-face, insalate e piatti principali.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Hamburguesa",
+      "category": "fast food",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 93",
+      "notes": "Il menù offre una varietà di opzioni, dalle classiche cheeseburger a versioni più elaborate con ingredienti come bacon, cipolla caramellata e salse artigianali.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "I love pokè",
+      "category": "fast food",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 108",
+      "notes": "Il menù offre un'ampia varietà di ingredienti selezionati, tra cui riso, quinoa, salmone, tonno, pollo, verdure fresche e salse esotiche, permettendo ai clienti di creare la propria bowl su misura. Inoltre, sono disponibili opzioni vegane e vegetariane, vellutate e tacos, per soddisfare diverse esigenze alimentari.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "KFC",
+      "category": "Fast Food",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 37,38",
+      "notes": "Il marchio è celebre per la sua \"Original Recipe\", una miscela segreta di 11 erbe e spezie che conferisce al pollo un sapore distintivo. Oltre al pollo fritto, il menu include panini, wrap, insalate, contorni e dessert.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Mc Donald's",
+      "category": "Fast Food",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 129",
+      "notes": "È famosa per i suoi hamburger, patatine fritte, bibite e altri prodotti come il Big Mac, i McNuggets e i McFlurry.",
+      "opening_hours": "Da Lunedì al Sabato 7:30 - 1:00"
+    },
+    {
+      "name": "San Marco",
+      "category": "bar / ristorante",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 127,128",
+      "notes": "Il menù comprende una varietà di opzioni, tra cui colazioni, snack, gelati artigianali e bevande, pensati per soddisfare diverse preferenze gastronomiche.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Old Wild West",
+      "category": "ristorante",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 48,49",
+      "notes": "Il format propone un'esperienza immersiva ispirata al Far West, con ambientazioni che richiamano saloon, carovane e scenografie da film western. Il menu offre una vasta selezione di hamburger, carni alla griglia, specialità tex-mex come tacos e nachos, oltre a opzioni vegetariane e piatti per bambini.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Vesuvya",
+      "category": "ristorante / pizzeria",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 5,6",
+      "notes": "Il locale è noto per le sue pizze in stile napoletano, preparate con ingredienti di qualità come la mozzarella di bufala Campana DOP. Il menù include anche antipasti, primi e secondi piatti, sia di terra che di mare, oltre a una varietà di dolci. Tra le specialità spiccano le pizze ripiene, come la \"Ripiena Classica\" e la \"Ripiena Moderna\", e piatti tradizionali come gli spaghetti alla carbonara.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Amen",
+      "category": "Gioielleria",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 119",
+      "notes": "La boutique propone un'ampia gamma di prodotti e gioielli, tra cui collane, bracciali, anelli e orecchini, realizzati in acciaio, argento e altri materiali di qualità, spesso arricchiti da simboli religiosi e messaggi di fede, amore e speranza.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Blue Spirit",
+      "category": "Gioielleria",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 23",
+      "notes": "Blue Spirit è una gioielleria situata all'interno del Gran Shopping Mongolfiera di Molfetta, in Via Adriano Olivetti. Il punto vendita offre una vasta gamma di gioielli e orologi, proponendo collezioni eleganti e alla moda per ogni occasione. Blue Spirit è noto per la qualità dei suoi prodotti e per l'attenzione al cliente, rendendolo una destinazione ideale per chi cerca il regalo perfetto o un accessorio speciale per sé.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "D'Amante",
+      "category": "Gioielleria",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 68",
+      "notes": "D’Amante è specializzata nella produzione e vendita di gioielli in oro 18 carati, argento, acciaio e pietre preziose, l'azienda si distingue per l'eleganza e la raffinatezza delle sue creazioni, che uniscono la tradizione artigianale italiana a un design contemporaneo.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Gioielli di valenza",
+      "category": "Gioielleria",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 14",
+      "notes": "Gioielli di Valenza è una rinomata gioielleria situata all'interno del Gran Shopping Mongolfiera di Molfetta, in Via Adriano Olivetti. Il punto vendita offre una vasta selezione di gioielli in oro e argento, diamanti certificati, orologi e accessori, con un'attenzione particolare alla qualità artigianale e al design italiano. **Parole chiave**",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Marlù",
+      "category": "Gioielleria",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 106",
+      "notes": "I negozi Marlù, caratterizzati da ambienti moderni e luminosi, offrono un'ampia gamma di prodotti, tra cui: Bracciali: con ciondoli e dettagli personalizzabili. Collane: dalle linee essenziali o arricchite da pendenti simbolici. Anelli: dal design minimalista o con elementi distintivi. Orecchini: per ogni stile, dai più classici ai più audaci.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Pandora",
+      "category": "Gioielleria",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 67",
+      "notes": "Pandora è un marchio danese di gioielleria fondato nel 1982 a Copenaghen da Per e Winnie Enevoldsen. Conosciuto per i suoi bracciali personalizzabili con charm, Pandora offre anche anelli, collane e orecchini dal design contemporaneo, rifiniti a mano e realizzati con materiali di alta qualità come argento sterling 925 e placcature in oro 14k, a prezzi accessibili.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Sarni Oro",
+      "category": "Gioielleria",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 124",
+      "notes": "Gioielli: ampia selezione di anelli, bracciali, collane, orecchini e ciondoli, realizzati in oro, argento e altri materiali pregiati. Orologi: modelli per ogni stile, dai classici ai più moderni, inclusi marchi come Citizen, Bulova, Casio e Michael Kors.Accessori per la casa: oggettistica elegante come cornici, candelieri e profumatori, ideali per regali e occasioni speciali. Servizi: assistenza post-vendita, riparazioni e personalizzazioni per soddisfare le esigenze dei clienti.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    },
+    {
+      "name": "Stroili oro",
+      "category": "Gioielleria",
+      "floor": "Piano unico",
+      "area": "Posizione mappa 81,82",
+      "notes": "Stroili Oro è una delle principali catene italiane di gioielleria, fondata nel 1996. Con oltre 400 negozi monomarca distribuiti in Italia e una presenza internazionale in 27 paesi, Stroili offre una vasta gamma di gioielli in oro, argento, diamanti e bijoux, caratterizzati da un design moderno e accessibile. L'azienda si distingue per la capacità di coniugare l'eleganza del Made in Italy con prezzi competitivi, rendendo i suoi prodotti adatti a un pubblico ampio e diversificato. Le collezioni di Stroili includono anelli, bracciali, collane, orecchini e orologi, pensati per celebrare ogni occasione speciale.",
+      "opening_hours": "Da Lunedì al Sabato 9 - 21 , Domenica 10 - 21"
+    }
+  ],
+  "events": [
+    {
+      "name": "CONTROLLO DELLA VISTA GRATUITA",
+      "date": "Il 19 Marzo",
+      "area": "Galleria del centro",
+      "notes": "Il 19 Marzo, controllo della vista gratuita."
+    },
+    {
+      "name": "COMPLEANNO GRANSHOPPING MONGOLFIERA",
+      "date": "Il 21 Marzo",
+      "area": "Galleria del centro",
+      "notes": "Il 21 Marzo, compleanno Granshopping Mongolfiera."
+    },
+    {
+      "name": "La Pasqua non è un’illusione.",
+      "date": "Il 3 e 4 Aprile",
+      "area": "Galleria del centro",
+      "notes": "Venerdì 3 e Sabato 4 Aprile alle 16:30 divertiti con la magia, i laboratori creativi e un omaggio di cioccolata. Sabato 4 non perderti l’apertura dell’enorme uovo artigianale."
+    }
+  ]
+}
